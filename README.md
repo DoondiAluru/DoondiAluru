@@ -63,13 +63,6 @@ I am a fresher and B.Tech ECE student passionate about **building practical soft
 ![Data Structures](https://img.shields.io/badge/Data_Structures-2563EB?style=for-the-badge&logo=codeforces&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-9333EA?style=for-the-badge&logo=java&logoColor=white)
 
-## Social Media Links
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/doondi-aluru/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" />
-  </a>
-</p>
 
 ## Let's Connect
 
