@@ -9,16 +9,16 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=900&color=7C3AED&center=true&vCenter=true&width=850&lines=AI%2FML+%26+Computer+Vision+Engineer;Deep+Learning+%7C+Medical+Image+Analysis+%7C+Full-Stack+Development;Building+real-world+vision+solutions+with+clean+engineering" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=900&color=7C3AED&center=true&vCenter=true&width=850&lines=Building+real-world+solutions+with+clean+engineering" alt="Typing SVG" />
   </a>
 </p>
 
 ## About Me
 
-I am a fresher and B.Tech ECE student passionate about **Computer Vision, Deep Learning, and intelligent full-stack applications**. I enjoy building practical AI systems, especially CNN-based medical image analysis projects, and turning ideas into usable products with clean pipelines, thoughtful evaluation, and responsive interfaces.
+I am a fresher and B.Tech ECE student passionate about **building practical software solutions and intelligent full-stack applications**. I enjoy turning ideas into usable products with clean pipelines, thoughtful evaluation, and responsive interfaces.
 
 - 🔭 Working with CNNs, TensorFlow, Keras, OpenCV, and image preprocessing pipelines
-- 🧠 Interested in medical imaging, deep learning, transfer learning, and real-world vision problems
+- 🧠 Interested in medical imaging, transfer learning, and real-world problem solving
 - 💻 Comfortable building full-stack apps with React, Node.js, Express, REST APIs, and SQL
 - 🚀 Always learning, experimenting, and improving one project at a time
 
@@ -48,7 +48,6 @@ I am a fresher and B.Tech ECE student passionate about **Computer Vision, Deep L
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-111827?style=for-the-badge&logo=deeplearningdotai&logoColor=white)
 ![CNN](https://img.shields.io/badge/CNN-7C3AED?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Transfer Learning](https://img.shields.io/badge/Transfer_Learning-0EA5E9?style=for-the-badge&logo=huggingface&logoColor=white)
 
@@ -67,38 +66,9 @@ I am a fresher and B.Tech ECE student passionate about **Computer Vision, Deep L
 ## Social Media Links
 
 <p align="center">
-  <a href="https://www.youtube.com/@DoondiAluru">
-    <img src="https://img.shields.io/badge/YouTube-Subscribers-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube subscriber badge" />
-  </a>
-  <a href="https://medium.com/@DoondiAluru">
-    <img src="https://img.shields.io/badge/Medium-Follow-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium badge" />
-  </a>
-  <a href="https://www.instagram.com/doondialuru/">
-    <img src="https://img.shields.io/badge/Instagram-Followers-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram follower badge" />
-  </a>
   <a href="https://www.linkedin.com/in/doondi-aluru/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" />
   </a>
-</p>
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DoondiAluru&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DoondiAluru&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoondiAluru&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DoondiAluru&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&margin-h=10" alt="GitHub trophies" />
 </p>
 
 ## Let's Connect
@@ -109,15 +79,6 @@ I am a fresher and B.Tech ECE student passionate about **Computer Vision, Deep L
   </a>
   <a href="https://www.linkedin.com/in/doondi-aluru/">
     <img src="https://img.shields.io/badge/LinkedIn-Doondi_Aluru-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn link" />
-  </a>
-  <a href="https://www.youtube.com/@DoondiAluru">
-    <img src="https://img.shields.io/badge/YouTube-DoondiAluru-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube link" />
-  </a>
-  <a href="https://medium.com/@DoondiAluru">
-    <img src="https://img.shields.io/badge/Medium-DoondiAluru-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium link" />
-  </a>
-  <a href="https://www.instagram.com/doondialuru/">
-    <img src="https://img.shields.io/badge/Instagram-doondialuru-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram link" />
   </a>
 </p>
 
